@@ -4,7 +4,7 @@
   <div>
     <h1>Olá, eu sou Jou Borges!</h1>
     <p>🌱 Estou cursando Ciência de Dados.</p>
-    <p>📘 Atualmente estudando Python e HTML.</p>
+    <p>📘 Atualmente estudando Python, HTML e CSS.</p>
     <p>😁 Pronomes: Ele/Dele.</p>
     <div>
       <a href="https://www.instagram.com/jouborges" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>
