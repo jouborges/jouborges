@@ -7,7 +7,6 @@
     <p>📘 Atualmente estudando Python, HTML e CSS.</p>
     <div>
       <a href="https://www.instagram.com/jouborges" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>
-      <a href="https://www.twitter.com/jouborges" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank" alt="Twitter"></a>
       <a href="https://www.linkedin.com/in/dionatanborges" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a>
       <a href="mailto:john.borges17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="E-mail"></a>
     </div>
