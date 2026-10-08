@@ -114,7 +114,7 @@ Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS) | Em andamento
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jouborges&show_icons=true&hide_border=true&theme=transparent&locale=pt-br)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jouborges&show_icons=true&hide_border=true&theme=transparent&locale=pt-br&include_all_commits=true&commits_year=2026)
 
 </div>
 
