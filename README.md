@@ -1,16 +1,18 @@
 
 <div align="center">
 
-# Olá, eu sou Jou Borges! 👋
+# 👋 Olá, eu sou Jou Borges!
 
-### Data Analytics | Python | SQL | Automação
+### Data Analytics • Python • SQL • Desenvolvimento Web
 
-Transformando problemas operacionais em soluções orientadas a dados.
+**Transformando problemas operacionais em soluções orientadas a dados.**
 
-🎓 Graduando em Banco de Dados com foco em Data Analytics.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dionatanborges)
-[![Outlook](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:johnny_brassat@hotmail.com)
+<a href="https://www.linkedin.com/in/dionatanborges">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:johnny_brassat@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail"/>
+</a>
 
 </div>
 
@@ -18,103 +20,151 @@ Transformando problemas operacionais em soluções orientadas a dados.
 
 ## 👨‍💻 Sobre mim
 
-Minha trajetória profissional está ligada à gestão de processos, análise de informações e operações administrativas, especialmente nas áreas de Recursos Humanos e Departamento Pessoal.
+Sou graduando em **Banco de Dados, com foco em Data Analytics, pela PUCRS**, com experiência profissional em Departamento Pessoal, gestão operacional, análise de informações e prevenção a fraudes.
 
-Atualmente, estou direcionando minha carreira para **Data Analytics**, combinando conhecimento de negócio com ferramentas de análise e automação.
+Minha trajetória envolve problemas que exigem cruzamento de dados, identificação de inconsistências, definição de indicadores e melhoria de processos.
 
-Tenho interesse em desenvolver soluções que reduzam atividades manuais, melhorem a confiabilidade das informações e apoiem decisões baseadas em dados.
+Atualmente, estou direcionando minha carreira para a área de tecnologia, aprofundando meus conhecimentos em **Python, SQL, análise de dados e Machine Learning**.
 
-- 📊 **Dados:** tratamento, cruzamento, validação e análise de informações.
-- 🐍 **Programação:** Python, pandas e conhecimentos em SQL.
-- 📈 **Visualização:** Excel avançado, Power Query, Power BI e Plotly.
-- ⚙️ **Automação:** integração de fontes, processamento de dados e relatórios.
-- 🌱 **Aprendizado:** aprofundando conhecimentos em bancos de dados, analytics e desenvolvimento de sistemas.
+Também possuo conhecimentos em **HTML, CSS e JavaScript**, que aplico na construção de interfaces e dashboards.
+
+Meu objetivo é combinar experiência de negócio com autonomia técnica para desenvolver soluções orientadas a dados.
 
 ---
 
-## 💼 Experiência profissional
+## 🚀 Projetos em destaque
 
-Minha experiência combina atividades operacionais, análise de informações e melhoria de processos.
+### 💳 Fraud Analytics | Detecção de Fraudes Financeiras
 
-| Área | Experiência |
-|:---|:---|
-| Departamento Pessoal | Controle e análise de jornadas, horas extras, escalas e indicadores operacionais |
-| Recursos Humanos | Processos administrativos, conferência de informações e gestão de dados |
-| Risco e Prevenção à Fraude | Monitoramento, análise de ocorrências e identificação de inconsistências |
-| Qualidade e Atendimento | Acompanhamento de processos, indicadores e melhoria contínua |
+**Python • Pandas • Scikit-learn • Jupyter • JavaScript**
+
+Projeto público de Data Analytics e Machine Learning, desenvolvido como parte do meu aprendizado prático em programação e análise de dados.
+
+Utilizo uma base de **284.807 transações financeiras**, incluindo 492 transações fraudulentas, para investigar padrões e desenvolver modelos experimentais de classificação.
+
+**Principais entregas:**
+
+- Análise exploratória com Python e Pandas.
+- Investigação de padrões e distribuição de transações.
+- Treinamento de Regressão Logística com Scikit-learn.
+- Avaliação de precisão, recall, F1-score e matriz de confusão.
+- Dashboard interativo com HTML, CSS, JavaScript e Chart.js.
+- Documentação técnica e roadmap de desenvolvimento.
+
+**Resultados experimentais no conjunto de teste:**
+
+| Precisão | Recall | F1-score |
+|:---:|:---:|:---:|
+| **30,42%** | **88,78%** | **45,31%** |
+
+> Resultados exploratórios. O modelo não foi validado para uso em produção.
+
+<p align="center">
+  <a href="https://jouborges.github.io/tech-guide/">
+    <img src="https://img.shields.io/badge/ABRIR_DASHBOARD-238636?style=for-the-badge&logo=githubpages&logoColor=white" alt="Abrir dashboard"/>
+  </a>
+  <a href="https://github.com/jouborges/tech-guide/tree/main/fraud-analytics">
+    <img src="https://img.shields.io/badge/CÓDIGO_E_DOCUMENTAÇÃO-30363D?style=for-the-badge&logo=github&logoColor=white" alt="Código e documentação"/>
+  </a>
+</p>
 
 ---
 
-## 🚀 Projeto em destaque
+### 🚛 Sistema de Auditoria de Jornada | Inteligência Operacional
 
-### Sistema de Auditoria de Jornada
+**Python • Pandas • SQLite • Dash • Plotly**
 
-**Python • SQLite • pandas • Dash • Plotly • GitHub Actions**
+Projeto corporativo privado voltado à auditoria de jornadas de motoristas, utilizando diferentes fontes de dados para apoiar análises operacionais.
 
-Sistema desenvolvido para apoiar a auditoria de jornadas de motoristas por meio da integração e análise de diferentes fontes de dados.
+A solução cruza informações de registros de ponto, rastreamento veicular e abastecimento, permitindo identificar divergências e investigar inconsistências.
 
-A solução cruza informações de **registros de ponto, rastreamento veicular, abastecimento, escalas e horas extras**, permitindo identificar divergências e organizar evidências para análise operacional.
+**Minha atuação:**
 
-**Principais funcionalidades:**
+- Idealização da solução e identificação dos problemas operacionais.
+- Definição de regras de negócio e critérios de auditoria.
+- Estruturação de indicadores e processos de análise.
+- Validação dos resultados e investigação de inconsistências.
+- Condução do desenvolvimento com apoio de ferramentas de inteligência artificial.
 
-- Integração, tratamento e consolidação de dados de diferentes origens.
-- Associação entre motoristas e veículos baseada em evidências.
-- Automatização de rotinas de processamento D+1.
-- Indicadores de jornada, horas extras, interjornada e descanso.
-- Dashboard interativo com filtros e análises operacionais.
-- Geração de relatórios e rastreabilidade das ocorrências.
-- Testes automatizados e integração contínua.
-
-O sistema utiliza critérios de confiança e evidências para apoiar a investigação de inconsistências, preservando a necessidade de validação humana.
-
-**Meu papel no projeto:** idealização da solução, definição das regras de negócio, estruturação das análises, validação dos resultados e condução do desenvolvimento com apoio de ferramentas de IA.
+> Projeto privado. Código-fonte, dados corporativos e informações de colaboradores não são disponibilizados publicamente.
 
 ---
 
 ## 🛠️ Tecnologias e ferramentas
 
-### Análise e processamento de dados
+### 🐍 Programação e análise de dados
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn"/>
+</p>
 
-### Visualização e Business Intelligence
+**Bibliotecas e ambiente:** Pandas, NumPy e Jupyter Notebook.
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+### 🌐 Desenvolvimento Web
 
-### Desenvolvimento e versionamento
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS e JavaScript"/>
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+Conhecimentos em desenvolvimento de interfaces web e construção de dashboards interativos.
+
+### 🗄️ Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres&theme=dark" alt="SQLite, MySQL e PostgreSQL"/>
+</p>
+
+**Foco de estudo:** SQL e modelagem de dados.
+
+### 📊 Visualização e Business Intelligence
+
+<p>
+  <img src="https://skillicons.dev/icons?i=matlab&theme=dark" alt="Ferramentas de análise"/>
+</p>
+
+**Ferramentas:** Plotly, Chart.js, Power BI e Excel.
+
+### ⚙️ Desenvolvimento e versionamento
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,githubactions&theme=dark" alt="Git, GitHub, VS Code e GitHub Actions"/>
+</p>
 
 ---
 
-## 🎓 Formação e aprendizado
+## 💼 Experiência profissional
+
+Minha experiência combina conhecimento de negócio, análise de informações e melhoria de processos.
+
+| Área | Experiência |
+|---|---|
+| Departamento Pessoal | Controle e análise de jornadas, horas extras e indicadores operacionais |
+| Recursos Humanos | Gestão de informações, conferência de registros e processos administrativos |
+| Risco e prevenção a fraudes | Monitoramento de ocorrências, identificação de inconsistências e análise de riscos |
+| Qualidade e atendimento | Acompanhamento de indicadores e melhoria de processos |
+
+---
+
+## 🎓 Formação
 
 **Banco de Dados — Data Analytics**  
-Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS) | Em andamento
+Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
 
-**Conhecimentos e cursos complementares**
+*Graduação em andamento.*
 
-- Excel avançado
-- Python
-- SQL — fundamentos
-- Power BI — fundamentos
-- LGPD e proteção de dados
-- Metodologias ágeis
+**Conhecimentos complementares:** Excel avançado, Python, SQL, Power BI, LGPD e metodologias ágeis.
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jouborges&show_icons=true&hide_border=true&theme=transparent&locale=pt-br&include_all_commits=true&commits_year=2026)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=jouborges&show_icons=true&hide_border=true&theme=transparent"
+  alt="Estatísticas do GitHub"
+/>
 
 </div>
 
@@ -122,9 +172,16 @@ Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS) | Em andamento
 
 <div align="center">
 
-### Vamos nos conectar?
+### 🤝 Vamos nos conectar?
 
-[LinkedIn](https://www.linkedin.com/in/dionatanborges) • [E-mail](mailto:johnny_brassat@hotmail.com)
+<a href="https://www.linkedin.com/in/dionatanborges">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:johnny_brassat@hotmail.com">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail"/>
+</a>
+
+<br/>
 
 <sub>Dados, processos e tecnologia aplicados a problemas reais.</sub>
 
